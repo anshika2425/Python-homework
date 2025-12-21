@@ -4,4 +4,4 @@ radius = float(radius_str)
 area = math.pi * (radius ** 2)
 
 
-print(f"the arae of the circle is : {area:.2f}")
+print (f"the arae of the circle is : {area:.2f}")
